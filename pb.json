@@ -1,0 +1,894 @@
+[
+	{
+		"cidade": "Água Branca",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Aguiar",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Alagoa Grande",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Alagoa Nova",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Alagoinha",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Alcantil",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Algodão de Jandaíra",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Alhandra",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Amparo",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Aparecida",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Araçagi",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Arara",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Araruna",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Areia",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Areia de Baraúnas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Areial",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Aroeiras",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Assunção",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Baía da Traição",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Bananeiras",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Baraúna",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Barra de Santa Rosa",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Barra de Santana",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Barra de São Miguel",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Bayeux",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Belém",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Belém do Brejo do Cruz",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Bernardino Batista",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Boa Ventura",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Boa Vista",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Bom Jesus",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Bom Sucesso",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Bonito de Santa Fé",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Boqueirão",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Borborema",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Brejo do Cruz",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Brejo dos Santos",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Caaporã",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cabaceiras",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cabedelo",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cachoeira dos Índios",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cacimba de Areia",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cacimba de Dentro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cacimbas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Caiçara",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cajazeiras",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cajazeirinhas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Caldas Brandão",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Camalaú",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Campina Grande",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Campo de Santana",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Capim",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Caraúbas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Carrapateira",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Casserengue",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Catingueira",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Catolé do Rocha",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Caturité",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Conceição",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Condado",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Conde",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Congo",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Coremas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Coxixola",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cruz do Espírito Santo",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cubati",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cuité",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cuité de Mamanguape",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Cuitegi",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Curral de Cima",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Curral Velho",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Damião",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Desterro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Diamante",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Dona Inês",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Duas Estradas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Emas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Esperança",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Fagundes",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Frei Martinho",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Gado Bravo",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Guarabira",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Gurinhém",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Gurjão",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Ibiara",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Igaracy",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Imaculada",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Ingá",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Itabaiana",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Itaporanga",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Itapororoca",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Itatuba",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Jacaraú",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Jericó",
+		"uf": "PB"
+	},
+	{
+		"cidade": "João Pessoa",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Juarez Távora",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Juazeirinho",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Junco do Seridó",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Juripiranga",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Juru",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Lagoa",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Lagoa de Dentro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Lagoa Seca",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Lastro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Livramento",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Logradouro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Lucena",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Mãe d`Água",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Malta",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Mamanguape",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Manaíra",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Marcação",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Mari",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Marizópolis",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Massaranduba",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Mataraca",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Matinhas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Mato Grosso",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Maturéia",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Mogeiro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Montadas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Monte Horebe",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Monteiro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Mulungu",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Natuba",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Nazarezinho",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Nova Floresta",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Nova Olinda",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Nova Palmeira",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Olho d`Água",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Olivedos",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Ouro Velho",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Parari",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Passagem",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Patos",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Paulista",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pedra Branca",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pedra Lavrada",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pedras de Fogo",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pedro Régis",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Piancó",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Picuí",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pilar",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pilões",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pilõezinhos",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pirpirituba",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pitimbu",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pocinhos",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Poço Dantas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Poço de José de Moura",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Pombal",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Prata",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Princesa Isabel",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Puxinanã",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Queimadas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Quixabá",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Remígio",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Riachão",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Riachão do Bacamarte",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Riachão do Poço",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Riacho de Santo Antônio",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Riacho dos Cavalos",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Rio Tinto",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Salgadinho",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Salgado de São Félix",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santa Cecília",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santa Cruz",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santa Helena",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santa Inês",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santa Luzia",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santa Rita",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santa Teresinha",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santana de Mangueira",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santana dos Garrotes",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santarém",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Santo André",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Bentinho",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Bento",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Domingos de Pombal",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Domingos do Cariri",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Francisco",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São João do Cariri",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São João do Rio do Peixe",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São João do Tigre",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José da Lagoa Tapada",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José de Caiana",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José de Espinharas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José de Piranhas",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José de Princesa",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José do Bonfim",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José do Brejo do Cruz",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José do Sabugi",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José dos Cordeiros",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São José dos Ramos",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Mamede",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Miguel de Taipu",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Sebastião de Lagoa de Roça",
+		"uf": "PB"
+	},
+	{
+		"cidade": "São Sebastião do Umbuzeiro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Sapé",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Seridó",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Serra Branca",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Serra da Raiz",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Serra Grande",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Serra Redonda",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Serraria",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Sertãozinho",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Sobrado",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Solânea",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Soledade",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Sossêgo",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Sousa",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Sumé",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Taperoá",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Tavares",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Teixeira",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Tenório",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Triunfo",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Uiraúna",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Umbuzeiro",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Várzea",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Vieirópolis",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Vista Serrana",
+		"uf": "PB"
+	},
+	{
+		"cidade": "Zabelê",
+		"uf": "PB"
+	}
+]

@@ -1,0 +1,558 @@
+[
+	{
+		"cidade": "Abreulândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Aguiarnópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Aliança do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Almas",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Alvorada",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Ananás",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Angico",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Aparecida do Rio Negro",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Aragominas",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Araguacema",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Araguaçu",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Araguaína",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Araguanã",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Araguatins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Arapoema",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Arraias",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Augustinópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Aurora do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Axixá do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Babaçulândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Bandeirantes do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Barra do Ouro",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Barrolândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Bernardo Sayão",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Bom Jesus do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Brasilândia do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Brejinho de Nazaré",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Buriti do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Cachoeirinha",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Campos Lindos",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Cariri do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Carmolândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Carrasco Bonito",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Caseara",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Centenário",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Chapada da Natividade",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Chapada de Areia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Colinas do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Colméia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Combinado",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Conceição do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Couto de Magalhães",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Cristalândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Crixás do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Darcinópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Dianópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Divinópolis do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Dois Irmãos do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Dueré",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Esperantina",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Fátima",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Figueirópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Filadélfia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Formoso do Araguaia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Fortaleza do Tabocão",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Goianorte",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Goiatins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Guaraí",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Gurupi",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Ipueiras",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Itacajá",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Itaguatins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Itapiratins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Itaporã do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Jaú do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Juarina",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Lagoa da Confusão",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Lagoa do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Lajeado",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Lavandeira",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Lizarda",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Luzinópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Marianópolis do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Mateiros",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Maurilândia do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Miracema do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Miranorte",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Monte do Carmo",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Monte Santo do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Muricilândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Natividade",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Nazaré",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Nova Olinda",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Nova Rosalândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Novo Acordo",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Novo Alegre",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Novo Jardim",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Oliveira de Fátima",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Palmas",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Palmeirante",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Palmeiras do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Palmeirópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Paraíso do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Paranã",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Pau d`Arco",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Pedro Afonso",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Peixe",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Pequizeiro",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Pindorama do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Piraquê",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Pium",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Ponte Alta do Bom Jesus",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Ponte Alta do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Porto Alegre do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Porto Nacional",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Praia Norte",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Presidente Kennedy",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Pugmil",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Recursolândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Riachinho",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Rio da Conceição",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Rio dos Bois",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Rio Sono",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Sampaio",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Sandolândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Santa Fé do Araguaia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Santa Maria do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Santa Rita do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Santa Rosa do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Santa Tereza do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Santa Terezinha do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "São Bento do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "São Félix do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "São Miguel do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "São Salvador do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "São Sebastião do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "São Valério da Natividade",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Silvanópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Sítio Novo do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Sucupira",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Taguatinga",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Taipas do Tocantins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Talismã",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Tocantínia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Tocantinópolis",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Tupirama",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Tupiratins",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Wanderlândia",
+		"uf": "TO"
+	},
+	{
+		"cidade": "Xambioá",
+		"uf": "TO"
+	}
+]

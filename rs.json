@@ -1,0 +1,1986 @@
+[
+	{
+		"cidade": "Aceguá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Água Santa",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Agudo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ajuricaba",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Alecrim",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Alegrete",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Alegria",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Almirante Tamandaré do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Alpestre",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Alto Alegre",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Alto Feliz",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Alvorada",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Amaral Ferrador",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ametista do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "André da Rocha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Anta Gorda",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Antônio Prado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Arambaré",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Araricá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Aratiba",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Arroio do Meio",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Arroio do Padre",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Arroio do Sal",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Arroio do Tigre",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Arroio dos Ratos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Arroio Grande",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Arvorezinha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Augusto Pestana",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Áurea",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Bagé",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Balneário Pinhal",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barão de Cotegipe",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barão do Triunfo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barra do Guarita",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barra do Quaraí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barra do Ribeiro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barra do Rio Azul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barra Funda",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barracão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Barros Cassal",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Benjamin Constant do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Bento Gonçalves",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Boa Vista das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Boa Vista do Buricá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Boa Vista do Cadeado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Boa Vista do Incra",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Boa Vista do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Bom Jesus",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Bom Princípio",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Bom Progresso",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Bom Retiro do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Boqueirão do Leão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Bossoroca",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Bozano",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Braga",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Brochier",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Butiá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Caçapava do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cacequi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cachoeira do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cachoeirinha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cacique Doble",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Caibaté",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Caiçara",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Camaquã",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Camargo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cambará do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Campestre da Serra",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Campina das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Campinas do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Campo Bom",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Campo Novo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Campos Borges",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Candelária",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cândido Godói",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Candiota",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Canela",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Canguçu",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Canoas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Canudos do Vale",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Capão Bonito do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Capão da Canoa",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Capão do Cipó",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Capão do Leão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Capela de Santana",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Capitão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Capivari do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Caraá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Carazinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Carlos Barbosa",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Carlos Gomes",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Casca",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Caseiros",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Catuípe",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Caxias do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Centenário",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cerrito",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cerro Branco",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cerro Grande",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cerro Grande do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cerro Largo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Chapada",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Charqueadas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Charrua",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Chiapeta",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Chuí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Chuvisca",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cidreira",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ciríaco",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Colinas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Colorado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Condor",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Constantina",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Coqueiro Baixo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Coqueiros do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Coronel Barros",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Coronel Bicaco",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Coronel Pilar",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cotiporã",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Coxilha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Crissiumal",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cristal",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cristal do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cruz Alta",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cruzaltense",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Cruzeiro do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "David Canabarro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Derrubadas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dezesseis de Novembro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dilermando de Aguiar",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dois Irmãos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dois Irmãos das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dois Lajeados",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dom Feliciano",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dom Pedrito",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dom Pedro de Alcântara",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Dona Francisca",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Doutor Maurício Cardoso",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Doutor Ricardo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Eldorado do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Encantado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Encruzilhada do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Engenho Velho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Entre Rios do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Entre-Ijuís",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Erebango",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Erechim",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ernestina",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Erval Grande",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Erval Seco",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Esmeralda",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Esperança do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Espumoso",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Estação",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Estância Velha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Esteio",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Estrela",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Estrela Velha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Eugênio de Castro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Fagundes Varela",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Farroupilha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Faxinal do Soturno",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Faxinalzinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Fazenda Vilanova",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Feliz",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Flores da Cunha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Floriano Peixoto",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Fontoura Xavier",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Formigueiro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Forquetinha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Fortaleza dos Valos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Frederico Westphalen",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Garibaldi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Garruchos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Gaurama",
+		"uf": "RS"
+	},
+	{
+		"cidade": "General Câmara",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Gentil",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Getúlio Vargas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Giruá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Glorinha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Gramado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Gramado dos Loureiros",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Gramado Xavier",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Gravataí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Guabiju",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Guaíba",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Guaporé",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Guarani das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Harmonia",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Herval",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Herveiras",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Horizontina",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Hulha Negra",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Humaitá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ibarama",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ibiaçá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ibiraiaras",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ibirapuitã",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ibirubá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Igrejinha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ijuí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ilópolis",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Imbé",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Imigrante",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Independência",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Inhacorá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ipê",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ipiranga do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Iraí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Itaara",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Itacurubi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Itapuca",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Itaqui",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Itati",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Itatiba do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ivorá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ivoti",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Jaboticaba",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Jacuizinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Jacutinga",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Jaguarão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Jaguari",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Jaquirana",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Jari",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Jóia",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Júlio de Castilhos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Lagoa Bonita do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Lagoa dos Três Cantos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Lagoa Vermelha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Lagoão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Lajeado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Lajeado do Bugre",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Lavras do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Liberato Salzano",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Lindolfo Collor",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Linha Nova",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Maçambara",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Machadinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mampituba",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Manoel Viana",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Maquiné",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Maratá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Marau",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Marcelino Ramos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mariana Pimentel",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mariano Moro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Marques de Souza",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mata",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mato Castelhano",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mato Leitão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mato Queimado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Maximiliano de Almeida",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Minas do Leão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Miraguaí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Montauri",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Monte Alegre dos Campos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Monte Belo do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Montenegro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mormaço",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Morrinhos do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Morro Redondo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Morro Reuter",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Mostardas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Muçum",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Muitos Capões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Muliterno",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Não-Me-Toque",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nicolau Vergueiro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nonoai",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Alvorada",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Araçá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Bassano",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Boa Vista",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Bréscia",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Candelária",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Esperança do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Hartz",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Pádua",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Palma",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Petrópolis",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Prata",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Ramada",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Roma do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Nova Santa Rita",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Novo Barreiro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Novo Cabrais",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Novo Hamburgo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Novo Machado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Novo Tiradentes",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Novo Xingu",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Osório",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Paim Filho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Palmares do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Palmeira das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Palmitinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Panambi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pantano Grande",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Paraí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Paraíso do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pareci Novo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Parobé",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Passa Sete",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Passo do Sobrado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Passo Fundo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Paulo Bento",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Paverama",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pedras Altas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pedro Osório",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pejuçara",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pelotas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Picada Café",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pinhal",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pinhal da Serra",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pinhal Grande",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pinheirinho do Vale",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pinheiro Machado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pirapó",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Piratini",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Planalto",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Poço das Antas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pontão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ponte Preta",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Portão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Porto Alegre",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Porto Lucena",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Porto Mauá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Porto Vera Cruz",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Porto Xavier",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Pouso Novo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Presidente Lucena",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Progresso",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Protásio Alves",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Putinga",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Quaraí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Quatro Irmãos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Quevedos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Quinze de Novembro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Redentora",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Relvado",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Restinga Seca",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Rio dos Índios",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Rio Grande",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Rio Pardo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Riozinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Roca Sales",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Rodeio Bonito",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Rolador",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Rolante",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ronda Alta",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Rondinha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Roque Gonzales",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Rosário do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sagrada Família",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Saldanha Marinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Salto do Jacuí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Salvador das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Salvador do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sananduva",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Bárbara do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Cecília do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Clara do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Cruz do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Margarida do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Maria",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Maria do Herval",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Rosa",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Tereza",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santa Vitória do Palmar",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santana da Boa Vista",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santana do Livramento",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santiago",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santo Ângelo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santo Antônio da Patrulha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santo Antônio das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santo Antônio do Palma",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santo Antônio do Planalto",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santo Augusto",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santo Cristo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Santo Expedito do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Borja",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Domingos do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Francisco de Assis",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Francisco de Paula",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Gabriel",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Jerônimo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São João da Urtiga",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São João do Polêsine",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Jorge",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São José das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São José do Herval",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São José do Hortêncio",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São José do Inhacorá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São José do Norte",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São José do Ouro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São José do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São José dos Ausentes",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Leopoldo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Lourenço do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Luiz Gonzaga",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Marcos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Martinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Martinho da Serra",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Miguel das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Nicolau",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Paulo das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Pedro da Serra",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Pedro das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Pedro do Butiá",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Pedro do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Sebastião do Caí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Sepé",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Valentim",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Valentim do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Valério do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Vendelino",
+		"uf": "RS"
+	},
+	{
+		"cidade": "São Vicente do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sapiranga",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sapucaia do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sarandi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Seberi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sede Nova",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Segredo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Selbach",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Senador Salgado Filho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sentinela do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Serafina Corrêa",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sério",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sertão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sertão Santana",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sete de Setembro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Severiano de Almeida",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Silveira Martins",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sinimbu",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Sobradinho",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Soledade",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tabaí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tapejara",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tapera",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tapes",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Taquara",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Taquari",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Taquaruçu do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tavares",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tenente Portela",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Terra de Areia",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Teutônia",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tio Hugo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tiradentes do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Toropi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Torres",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tramandaí",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Travesseiro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Três Arroios",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Três Cachoeiras",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Três Coroas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Três de Maio",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Três Forquilhas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Três Palmeiras",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Três Passos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Trindade do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Triunfo",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tucunduva",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tunas",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tupanci do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tupanciretã",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tupandi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Tuparendi",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Turuçu",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Ubiretama",
+		"uf": "RS"
+	},
+	{
+		"cidade": "União da Serra",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Unistalda",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Uruguaiana",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vacaria",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vale do Sol",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vale Real",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vale Verde",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vanini",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Venâncio Aires",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vera Cruz",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Veranópolis",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vespasiano Correa",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Viadutos",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Viamão",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vicente Dutra",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Victor Graeff",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vila Flores",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vila Lângaro",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vila Maria",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vila Nova do Sul",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vista Alegre",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vista Alegre do Prata",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vista Gaúcha",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Vitória das Missões",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Westfália",
+		"uf": "RS"
+	},
+	{
+		"cidade": "Xangri-lá",
+		"uf": "RS"
+	}
+]

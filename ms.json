@@ -1,0 +1,314 @@
+[
+	{
+		"cidade": "Água Clara",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Alcinópolis",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Amambaí",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Anastácio",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Anaurilândia",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Angélica",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Antônio João",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Aparecida do Taboado",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Aquidauana",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Aral Moreira",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Bandeirantes",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Bataguassu",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Bataiporã",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Bela Vista",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Bodoquena",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Bonito",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Brasilândia",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Caarapó",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Camapuã",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Campo Grande",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Caracol",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Cassilândia",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Chapadão do Sul",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Corguinho",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Coronel Sapucaia",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Corumbá",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Costa Rica",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Coxim",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Deodápolis",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Dois Irmãos do Buriti",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Douradina",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Dourados",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Eldorado",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Fátima do Sul",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Figueirão",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Glória de Dourados",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Guia Lopes da Laguna",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Iguatemi",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Inocência",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Itaporã",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Itaquiraí",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Ivinhema",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Japorã",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Jaraguari",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Jardim",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Jateí",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Juti",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Ladário",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Laguna Carapã",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Maracaju",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Miranda",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Mundo Novo",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Naviraí",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Nioaque",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Nova Alvorada do Sul",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Nova Andradina",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Novo Horizonte do Sul",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Paranaíba",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Paranhos",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Pedro Gomes",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Ponta Porã",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Porto Murtinho",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Ribas do Rio Pardo",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Rio Brilhante",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Rio Negro",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Rio Verde de Mato Grosso",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Rochedo",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Santa Rita do Pardo",
+		"uf": "MS"
+	},
+	{
+		"cidade": "São Gabriel do Oeste",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Selvíria",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Sete Quedas",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Sidrolândia",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Sonora",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Tacuru",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Taquarussu",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Terenos",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Três Lagoas",
+		"uf": "MS"
+	},
+	{
+		"cidade": "Vicentina",
+		"uf": "MS"
+	}
+]

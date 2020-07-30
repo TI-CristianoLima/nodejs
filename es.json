@@ -1,0 +1,314 @@
+[
+	{
+		"cidade": "Afonso Cláudio",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Água Doce do Norte",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Águia Branca",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Alegre",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Alfredo Chaves",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Alto Rio Novo",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Anchieta",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Apiacá",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Aracruz",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Atilio Vivacqua",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Baixo Guandu",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Barra de São Francisco",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Boa Esperança",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Bom Jesus do Norte",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Brejetuba",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Cachoeiro de Itapemirim",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Cariacica",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Castelo",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Colatina",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Conceição da Barra",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Conceição do Castelo",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Divino de São Lourenço",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Domingos Martins",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Dores do Rio Preto",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Ecoporanga",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Fundão",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Governador Lindenberg",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Guaçuí",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Guarapari",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Ibatiba",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Ibiraçu",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Ibitirama",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Iconha",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Irupi",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Itaguaçu",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Itapemirim",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Itarana",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Iúna",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Jaguaré",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Jerônimo Monteiro",
+		"uf": "ES"
+	},
+	{
+		"cidade": "João Neiva",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Laranja da Terra",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Linhares",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Mantenópolis",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Marataízes",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Marechal Floriano",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Marilândia",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Mimoso do Sul",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Montanha",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Mucurici",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Muniz Freire",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Muqui",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Nova Venécia",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Pancas",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Pedro Canário",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Pinheiros",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Piúma",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Ponto Belo",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Presidente Kennedy",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Rio Bananal",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Rio Novo do Sul",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Santa Leopoldina",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Santa Maria de Jetibá",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Santa Teresa",
+		"uf": "ES"
+	},
+	{
+		"cidade": "São Domingos do Norte",
+		"uf": "ES"
+	},
+	{
+		"cidade": "São Gabriel da Palha",
+		"uf": "ES"
+	},
+	{
+		"cidade": "São José do Calçado",
+		"uf": "ES"
+	},
+	{
+		"cidade": "São Mateus",
+		"uf": "ES"
+	},
+	{
+		"cidade": "São Roque do Canaã",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Serra",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Sooretama",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Vargem Alta",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Venda Nova do Imigrante",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Viana",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Vila Pavão",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Vila Valério",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Vila Velha",
+		"uf": "ES"
+	},
+	{
+		"cidade": "Vitória",
+		"uf": "ES"
+	}
+]

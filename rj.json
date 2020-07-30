@@ -1,0 +1,370 @@
+[
+	{
+		"cidade": "Angra dos Reis",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Aperibé",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Araruama",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Areal",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Armação dos Búzios",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Arraial do Cabo",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Barra do Piraí",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Barra Mansa",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Belford Roxo",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Bom Jardim",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Bom Jesus do Itabapoana",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Cabo Frio",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Cachoeiras de Macacu",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Cambuci",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Campos dos Goytacazes",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Cantagalo",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Carapebus",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Cardoso Moreira",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Carmo",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Casimiro de Abreu",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Comendador Levy Gasparian",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Conceição de Macabu",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Cordeiro",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Duas Barras",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Duque de Caxias",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Engenheiro Paulo de Frontin",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Guapimirim",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Iguaba Grande",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Itaboraí",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Itaguaí",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Italva",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Itaocara",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Itaperuna",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Itatiaia",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Japeri",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Laje do Muriaé",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Macaé",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Macuco",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Magé",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Mangaratiba",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Maricá",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Mendes",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Mesquita",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Miguel Pereira",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Miracema",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Natividade",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Nilópolis",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Niterói",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Nova Friburgo",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Nova Iguaçu",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Paracambi",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Paraíba do Sul",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Parati",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Paty do Alferes",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Petrópolis",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Pinheiral",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Piraí",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Porciúncula",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Porto Real",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Quatis",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Queimados",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Quissamã",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Resende",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Rio Bonito",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Rio Claro",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Rio das Flores",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Rio das Ostras",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Rio de Janeiro",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Santa Maria Madalena",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Santo Antônio de Pádua",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São Fidélis",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São Francisco de Itabapoana",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São Gonçalo",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São João da Barra",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São João de Meriti",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São José de Ubá",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São José do Vale do Rio Pret",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São Pedro da Aldeia",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "São Sebastião do Alto",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Sapucaia",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Saquarema",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Seropédica",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Silva Jardim",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Sumidouro",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Tanguá",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Teresópolis",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Trajano de Morais",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Três Rios",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Valença",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Varre-Sai",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Vassouras",
+		"uf": "RJ"
+	},
+	{
+		"cidade": "Volta Redonda",
+		"uf": "RJ"
+	}
+]

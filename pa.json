@@ -1,0 +1,574 @@
+[
+	{
+		"cidade": "Abaetetuba",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Abel Figueiredo",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Acará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Afuá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Água Azul do Norte",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Alenquer",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Almeirim",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Altamira",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Anajás",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Ananindeua",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Anapu",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Augusto Corrêa",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Aurora do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Aveiro",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Bagre",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Baião",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Bannach",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Barcarena",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Belém",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Belterra",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Benevides",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Bom Jesus do Tocantins",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Bonito",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Bragança",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Brasil Novo",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Brejo Grande do Araguaia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Breu Branco",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Breves",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Bujaru",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Cachoeira do Arari",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Cachoeira do Piriá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Cametá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Canaã dos Carajás",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Capanema",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Capitão Poço",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Castanhal",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Chaves",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Colares",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Conceição do Araguaia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Concórdia do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Cumaru do Norte",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Curionópolis",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Curralinho",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Curuá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Curuçá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Dom Eliseu",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Eldorado dos Carajás",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Faro",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Floresta do Araguaia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Garrafão do Norte",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Goianésia do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Gurupá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Igarapé-Açu",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Igarapé-Miri",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Inhangapi",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Ipixuna do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Irituia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Itaituba",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Itupiranga",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Jacareacanga",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Jacundá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Juruti",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Limoeiro do Ajuru",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Mãe do Rio",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Magalhães Barata",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Marabá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Maracanã",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Marapanim",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Marituba",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Medicilândia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Melgaço",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Mocajuba",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Moju",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Monte Alegre",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Muaná",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Nova Esperança do Piriá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Nova Ipixuna",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Nova Timboteua",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Novo Progresso",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Novo Repartimento",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Óbidos",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Oeiras do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Oriximiná",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Ourém",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Ourilândia do Norte",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Pacajá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Palestina do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Paragominas",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Parauapebas",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Pau d`Arco",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Peixe-Boi",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Piçarra",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Placas",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Ponta de Pedras",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Portel",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Porto de Moz",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Prainha",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Primavera",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Quatipuru",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Redenção",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Rio Maria",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Rondon do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Rurópolis",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Salinópolis",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Salvaterra",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santa Bárbara do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santa Cruz do Arari",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santa Isabel do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santa Luzia do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santa Maria das Barreiras",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santa Maria do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santana do Araguaia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santarém",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santarém Novo",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Santo Antônio do Tauá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São Caetano de Odivelas",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São Domingos do Araguaia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São Domingos do Capim",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São Félix do Xingu",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São Francisco do Pará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São Geraldo do Araguaia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São João da Ponta",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São João de Pirabas",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São João do Araguaia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São Miguel do Guamá",
+		"uf": "PA"
+	},
+	{
+		"cidade": "São Sebastião da Boa Vista",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Sapucaia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Senador José Porfírio",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Soure",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Tailândia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Terra Alta",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Terra Santa",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Tomé-Açu",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Tracuateua",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Trairão",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Tucumã",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Tucuruí",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Ulianópolis",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Uruará",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Vigia",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Viseu",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Vitória do Xingu",
+		"uf": "PA"
+	},
+	{
+		"cidade": "Xinguara",
+		"uf": "PA"
+	}
+]

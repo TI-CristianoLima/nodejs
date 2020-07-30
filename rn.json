@@ -1,0 +1,670 @@
+[
+	{
+		"cidade": "Acari",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Açu",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Afonso Bezerra",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Água Nova",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Alexandria",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Almino Afonso",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Alto do Rodrigues",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Angicos",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Antônio Martins",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Apodi",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Areia Branca",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Arês",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Augusto Severo",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Baía Formosa",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Baraúna",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Barcelona",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Bento Fernandes",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Bodó",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Bom Jesus",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Brejinho",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Caiçara do Norte",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Caiçara do Rio do Vento",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Caicó",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Campo Redondo",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Canguaretama",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Caraúbas",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Carnaúba dos Dantas",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Carnaubais",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Ceará-Mirim",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Cerro Corá",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Coronel Ezequiel",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Coronel João Pessoa",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Cruzeta",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Currais Novos",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Doutor Severiano",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Encanto",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Equador",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Espírito Santo",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Extremoz",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Felipe Guerra",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Fernando Pedroza",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Florânia",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Francisco Dantas",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Frutuoso Gomes",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Galinhos",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Goianinha",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Governador Dix-Sept Rosado",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Grossos",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Guamaré",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Ielmo Marinho",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Ipanguaçu",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Ipueira",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Itajá",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Itaú",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Jaçanã",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Jandaíra",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Janduís",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Januário Cicco",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Japi",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Jardim de Angicos",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Jardim de Piranhas",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Jardim do Seridó",
+		"uf": "RN"
+	},
+	{
+		"cidade": "João Câmara",
+		"uf": "RN"
+	},
+	{
+		"cidade": "João Dias",
+		"uf": "RN"
+	},
+	{
+		"cidade": "José da Penha",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Jucurutu",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Jundiá",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Lagoa d`Anta",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Lagoa de Pedras",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Lagoa de Velhos",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Lagoa Nova",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Lagoa Salgada",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Lajes",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Lajes Pintadas",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Lucrécia",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Luís Gomes",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Macaíba",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Macau",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Major Sales",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Marcelino Vieira",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Martins",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Maxaranguape",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Messias Targino",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Montanhas",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Monte Alegre",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Monte das Gameleiras",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Mossoró",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Natal",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Nísia Floresta",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Nova Cruz",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Olho-d`Água do Borges",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Ouro Branco",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Paraná",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Paraú",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Parazinho",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Parelhas",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Parnamirim",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Passa e Fica",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Passagem",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Patu",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Pau dos Ferros",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Pedra Grande",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Pedra Preta",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Pedro Avelino",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Pedro Velho",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Pendências",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Pilões",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Poço Branco",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Portalegre",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Porto do Mangue",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Presidente Juscelino",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Pureza",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Rafael Fernandes",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Rafael Godeiro",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Riacho da Cruz",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Riacho de Santana",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Riachuelo",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Rio do Fogo",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Rodolfo Fernandes",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Ruy Barbosa",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Santa Cruz",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Santa Maria",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Santana do Matos",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Santana do Seridó",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Santo Antônio",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Bento do Norte",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Bento do Trairí",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Fernando",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Francisco do Oeste",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Gonçalo do Amarante",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São João do Sabugi",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São José de Mipibu",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São José do Campestre",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São José do Seridó",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Miguel",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Miguel do Gostoso",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Paulo do Potengi",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Pedro",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Rafael",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Tomé",
+		"uf": "RN"
+	},
+	{
+		"cidade": "São Vicente",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Senador Elói de Souza",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Senador Georgino Avelino",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Serra de São Bento",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Serra do Mel",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Serra Negra do Norte",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Serrinha",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Serrinha dos Pintos",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Severiano Melo",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Sítio Novo",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Taboleiro Grande",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Taipu",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Tangará",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Tenente Ananias",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Tenente Laurentino Cruz",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Tibau",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Tibau do Sul",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Timbaúba dos Batistas",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Touros",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Triunfo Potiguar",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Umarizal",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Upanema",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Várzea",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Venha-Ver",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Vera Cruz",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Viçosa",
+		"uf": "RN"
+	},
+	{
+		"cidade": "Vila Flor",
+		"uf": "RN"
+	}
+]

@@ -1,0 +1,738 @@
+[
+	{
+		"cidade": "Abaiara",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Acarape",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Acaraú",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Acopiara",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Aiuaba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Alcântaras",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Altaneira",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Alto Santo",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Amontada",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Antonina do Norte",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Apuiarés",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Aquiraz",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Aracati",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Aracoiaba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ararendá",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Araripe",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Aratuba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Arneiroz",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Assaré",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Aurora",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Baixio",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Banabuiú",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Barbalha",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Barreira",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Barro",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Barroquinha",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Baturité",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Beberibe",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Bela Cruz",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Boa Viagem",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Brejo Santo",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Camocim",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Campos Sales",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Canindé",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Capistrano",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Caridade",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Cariré",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Caririaçu",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Cariús",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Carnaubal",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Cascavel",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Catarina",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Catunda",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Caucaia",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Cedro",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Chaval",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Choró",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Chorozinho",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Coreaú",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Crateús",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Crato",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Croatá",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Cruz",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Deputado Irapuan Pinheiro",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ererê",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Eusébio",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Farias Brito",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Forquilha",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Fortaleza",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Fortim",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Frecheirinha",
+		"uf": "CE"
+	},
+	{
+		"cidade": "General Sampaio",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Graça",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Granja",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Granjeiro",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Groaíras",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Guaiúba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Guaraciaba do Norte",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Guaramiranga",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Hidrolândia",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Horizonte",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ibaretama",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ibiapina",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ibicuitinga",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Icapuí",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Icó",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Iguatu",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Independência",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ipaporanga",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ipaumirim",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ipu",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ipueiras",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Iracema",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Irauçuba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Itaiçaba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Itaitinga",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Itapagé",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Itapipoca",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Itapiúna",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Itarema",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Itatira",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Jaguaretama",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Jaguaribara",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Jaguaribe",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Jaguaruana",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Jardim",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Jati",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Jijoca de Jericoacoara",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Juazeiro do Norte",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Jucás",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Lavras da Mangabeira",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Limoeiro do Norte",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Madalena",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Maracanaú",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Maranguape",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Marco",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Martinópole",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Massapê",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Mauriti",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Meruoca",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Milagres",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Milhã",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Miraíma",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Missão Velha",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Mombaça",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Monsenhor Tabosa",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Morada Nova",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Moraújo",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Morrinhos",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Mucambo",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Mulungu",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Nova Olinda",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Nova Russas",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Novo Oriente",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ocara",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Orós",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pacajus",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pacatuba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pacoti",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pacujá",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Palhano",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Palmácia",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Paracuru",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Paraipaba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Parambu",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Paramoti",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pedra Branca",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Penaforte",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pentecoste",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pereiro",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pindoretama",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Piquet Carneiro",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Pires Ferreira",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Poranga",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Porteiras",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Potengi",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Potiretama",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Quiterianópolis",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Quixadá",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Quixelô",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Quixeramobim",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Quixeré",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Redenção",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Reriutaba",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Russas",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Saboeiro",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Salitre",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Santa Quitéria",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Santana do Acaraú",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Santana do Cariri",
+		"uf": "CE"
+	},
+	{
+		"cidade": "São Benedito",
+		"uf": "CE"
+	},
+	{
+		"cidade": "São Gonçalo do Amarante",
+		"uf": "CE"
+	},
+	{
+		"cidade": "São João do Jaguaribe",
+		"uf": "CE"
+	},
+	{
+		"cidade": "São Luís do Curu",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Senador Pompeu",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Senador Sá",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Sobral",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Solonópole",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Tabuleiro do Norte",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Tamboril",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Tarrafas",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Tauá",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Tejuçuoca",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Tianguá",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Trairi",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Tururu",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Ubajara",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Umari",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Umirim",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Uruburetama",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Uruoca",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Varjota",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Várzea Alegre",
+		"uf": "CE"
+	},
+	{
+		"cidade": "Viçosa do Ceará",
+		"uf": "CE"
+	}
+]

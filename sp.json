@@ -1,0 +1,2582 @@
+[
+	{
+		"cidade": "Adamantina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Adolfo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Aguaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Águas da Prata",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Águas de Lindóia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Águas de Santa Bárbara",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Águas de São Pedro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Agudos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Alambari",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Alfredo Marcondes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Altair",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Altinópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Alto Alegre",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Alumínio",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Álvares Florence",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Álvares Machado",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Álvaro de Carvalho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Alvinlândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Americana",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Américo Brasiliense",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Américo de Campos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Amparo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Analândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Andradina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Angatuba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Anhembi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Anhumas",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Aparecida",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Aparecida d`Oeste",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Apiaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Araçariguama",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Araçatuba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Araçoiaba da Serra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Aramina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Arandu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Arapeí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Araraquara",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Araras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Arco-Íris",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Arealva",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Areias",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Areiópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ariranha",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Artur Nogueira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Arujá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Aspásia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Assis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Atibaia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Auriflama",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Avaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Avanhandava",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Avaré",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bady Bassitt",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Balbinos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bálsamo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bananal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Barão de Antonina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Barbosa",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bariri",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Barra Bonita",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Barra do Chapéu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Barra do Turvo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Barretos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Barrinha",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Barueri",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bastos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Batatais",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bauru",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bebedouro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bento de Abreu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bernardino de Campos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bertioga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bilac",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Birigui",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Biritiba-Mirim",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Boa Esperança do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bocaina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bofete",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Boituva",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bom Jesus dos Perdões",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bom Sucesso de Itararé",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Borá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Boracéia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Borborema",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Borebi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Botucatu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Bragança Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Braúna",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Brejo Alegre",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Brodowski",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Brotas",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Buri",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Buritama",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Buritizal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cabrália Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cabreúva",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Caçapava",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cachoeira Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Caconde",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cafelândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Caiabu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Caieiras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Caiuá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cajamar",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cajati",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cajobi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cajuru",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Campina do Monte Alegre",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Campinas",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Campo Limpo Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Campos do Jordão",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Campos Novos Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cananéia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Canas",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cândido Mota",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cândido Rodrigues",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Canitar",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Capão Bonito",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Capela do Alto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Capivari",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Caraguatatuba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Carapicuíba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cardoso",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Casa Branca",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cássia dos Coqueiros",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Castilho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Catanduva",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Catiguá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cedral",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cerqueira César",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cerquilho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cesário Lange",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Charqueada",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Chavantes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Clementina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Colina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Colômbia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Conchal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Conchas",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cordeirópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Coroados",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Coronel Macedo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Corumbataí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cosmópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cosmorama",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cotia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cravinhos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cristais Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cruzália",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cruzeiro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cubatão",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Cunha",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Descalvado",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Diadema",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Dirce Reis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Divinolândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Dobrada",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Dois Córregos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Dolcinópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Dourado",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Dracena",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Duartina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Dumont",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Echaporã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Eldorado",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Elias Fausto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Elisiário",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Embaúba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Embu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Embu-Guaçu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Emilianópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Engenheiro Coelho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Espírito Santo do Pinhal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Espírito Santo do Turvo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Estiva Gerbi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Estrela d`Oeste",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Estrela do Norte",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Euclides da Cunha Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Fartura",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Fernando Prestes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Fernandópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Fernão",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ferraz de Vasconcelos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Flora Rica",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Floreal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Flórida Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Florínia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Franca",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Francisco Morato",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Franco da Rocha",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Gabriel Monteiro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Gália",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Garça",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Gastão Vidigal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Gavião Peixoto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "General Salgado",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Getulina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Glicério",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guaiçara",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guaimbê",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guaíra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guapiaçu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guapiara",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guará",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guaraçaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guaraci",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guarani d`Oeste",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guarantã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guararapes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guararema",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guaratinguetá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guareí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guariba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guarujá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guarulhos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guatapará",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Guzolândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Herculândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Holambra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Hortolândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Iacanga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Iacri",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Iaras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ibaté",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ibirá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ibirarema",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ibitinga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ibiúna",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Icém",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Iepê",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Igaraçu do Tietê",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Igarapava",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Igaratá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Iguape",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ilha Comprida",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ilha Solteira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ilhabela",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Indaiatuba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Indiana",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Indiaporã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Inúbia Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ipaussu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Iperó",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ipeúna",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ipiguá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Iporanga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ipuã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Iracemápolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Irapuã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Irapuru",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itaberá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itajobi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itaju",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itanhaém",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itaóca",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itapecerica da Serra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itapetininga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itapeva",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itapevi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itapira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itapirapuã Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itápolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itaporanga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itapuí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itapura",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itaquaquecetuba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itararé",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itariri",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itatiba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itatinga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itirapina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itirapuã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itobi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Itupeva",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ituverava",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jaborandi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jaboticabal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jacareí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jaci",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jacupiranga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jaguariúna",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jales",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jambeiro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jandira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jardinópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jarinu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jaú",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jeriquara",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Joanópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "João Ramalho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "José Bonifácio",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Júlio Mesquita",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jumirim",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Jundiaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Junqueirópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Juquiá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Juquitiba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lagoinha",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Laranjal Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lavínia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lavrinhas",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Leme",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lençóis Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Limeira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lindóia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lins",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lorena",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lourdes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Louveira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lucélia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lucianópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Luís Antônio",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Luiziânia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lupércio",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Lutécia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Macatuba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Macaubal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Macedônia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Magda",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mairinque",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mairiporã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Manduri",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Marabá Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Maracaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Marapoama",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mariápolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Marília",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Marinópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Martinópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Matão",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mauá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mendonça",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Meridiano",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mesópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Miguelópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mineiros do Tietê",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mira Estrela",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Miracatu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mirandópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mirante do Paranapanema",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mirassol",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mirassolândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mococa",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mogi das Cruzes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mogi Guaçu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Moji Mirim",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mombuca",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Monções",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Mongaguá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Monte Alegre do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Monte Alto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Monte Aprazível",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Monte Azul Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Monte Castelo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Monte Mor",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Monteiro Lobato",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Morro Agudo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Morungaba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Motuca",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Murutinga do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nantes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Narandiba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Natividade da Serra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nazaré Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Neves Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nhandeara",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nipoã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Aliança",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Campina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Canaã Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Castilho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Europa",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Granada",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Guataporanga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Independência",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Luzitânia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nova Odessa",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Novais",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Novo Horizonte",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Nuporanga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ocauçu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Óleo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Olímpia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Onda Verde",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Oriente",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Orindiúva",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Orlândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Osasco",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Oscar Bressane",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Osvaldo Cruz",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ourinhos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ouro Verde",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ouroeste",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pacaembu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Palestina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Palmares Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Palmeira d`Oeste",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Palmital",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Panorama",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paraguaçu Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paraibuna",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paraíso",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paranapanema",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paranapuã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Parapuã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pardinho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pariquera-Açu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Parisi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Patrocínio Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paulicéia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paulínia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paulistânia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Paulo de Faria",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pederneiras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pedra Bela",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pedranópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pedregulho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pedreira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pedrinhas Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pedro de Toledo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Penápolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pereira Barreto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pereiras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Peruíbe",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Piacatu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Piedade",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pilar do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pindamonhangaba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pindorama",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pinhalzinho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Piquerobi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Piquete",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Piracaia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Piracicaba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Piraju",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pirajuí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pirangi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pirapora do Bom Jesus",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pirapozinho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pirassununga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Piratininga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pitangueiras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Planalto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Platina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Poá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Poloni",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pompéia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pongaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pontal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pontalinda",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pontes Gestal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Populina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Porangaba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Porto Feliz",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Porto Ferreira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Potim",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Potirendaba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pracinha",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pradópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Praia Grande",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Pratânia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Presidente Alves",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Presidente Bernardes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Presidente Epitácio",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Presidente Prudente",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Presidente Venceslau",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Promissão",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Quadra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Quatá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Queiroz",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Queluz",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Quintana",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rafard",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rancharia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Redenção da Serra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Regente Feijó",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Reginópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Registro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Restinga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeirão Bonito",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeirão Branco",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeirão Corrente",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeirão do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeirão dos Índios",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeirão Grande",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeirão Pires",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ribeirão Preto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rifaina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rincão",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rinópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rio Claro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rio das Pedras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rio Grande da Serra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Riolândia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Riversul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rosana",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Roseira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rubiácea",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Rubinéia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sabino",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sagres",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sales",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sales Oliveira",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Salesópolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Salmourão",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Saltinho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Salto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Salto de Pirapora",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Salto Grande",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sandovalina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Adélia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Albertina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Bárbara d`Oeste",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Branca",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Clara d`Oeste",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Cruz da Conceição",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Cruz da Esperança",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Cruz das Palmeiras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Cruz do Rio Pardo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Ernestina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Fé do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Gertrudes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Isabel",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Lúcia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Maria da Serra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Mercedes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Rita d`Oeste",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Rita do Passa Quatro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Rosa de Viterbo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santa Salete",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santana da Ponte Pensa",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santana de Parnaíba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santo Anastácio",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santo André",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santo Antônio da Alegria",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santo Antônio de Posse",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santo Antônio do Aracanguá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santo Antônio do Jardim",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santo Antônio do Pinhal",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santo Expedito",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santópolis do Aguapeí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Santos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Bento do Sapucaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Bernardo do Campo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Caetano do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Carlos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Francisco",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São João da Boa Vista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São João das Duas Pontes",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São João de Iracema",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São João do Pau d`Alho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Joaquim da Barra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São José da Bela Vista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São José do Barreiro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São José do Rio Pardo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São José do Rio Preto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São José dos Campos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Lourenço da Serra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Luís do Paraitinga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Manuel",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Miguel Arcanjo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Paulo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Pedro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Pedro do Turvo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Roque",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Sebastião",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Sebastião da Grama",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Simão",
+		"uf": "SP"
+	},
+	{
+		"cidade": "São Vicente",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sarapuí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sarutaiá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sebastianópolis do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Serra Azul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Serra Negra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Serrana",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sertãozinho",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sete Barras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Severínia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Silveiras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Socorro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sorocaba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sud Mennucci",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Sumaré",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Suzanápolis",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Suzano",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tabapuã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tabatinga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taboão da Serra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taciba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taguaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taiaçu",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taiúva",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tambaú",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tanabi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tapiraí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tapiratiba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taquaral",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taquaritinga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taquarituba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taquarivaí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tarabai",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tarumã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tatuí",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Taubaté",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tejupá",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Teodoro Sampaio",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Terra Roxa",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tietê",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Timburi",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Torre de Pedra",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Torrinha",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Trabiju",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tremembé",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Três Fronteiras",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tuiuti",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tupã",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Tupi Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Turiúba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Turmalina",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ubarana",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ubatuba",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Ubirajara",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Uchoa",
+		"uf": "SP"
+	},
+	{
+		"cidade": "União Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Urânia",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Uru",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Urupês",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Valentim Gentil",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Valinhos",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Valparaíso",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Vargem",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Vargem Grande do Sul",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Vargem Grande Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Várzea Paulista",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Vera Cruz",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Vinhedo",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Viradouro",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Vista Alegre do Alto",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Vitória Brasil",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Votorantim",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Votuporanga",
+		"uf": "SP"
+	},
+	{
+		"cidade": "Zacarias",
+		"uf": "SP"
+	}
+]

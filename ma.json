@@ -1,0 +1,870 @@
+[
+	{
+		"cidade": "Açailândia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Afonso Cunha",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Água Doce do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Alcântara",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Aldeias Altas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Altamira do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Alto Alegre do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Alto Alegre do Pindaré",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Alto Parnaíba",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Amapá do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Amarante do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Anajatuba",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Anapurus",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Apicum-Açu",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Araguanã",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Araioses",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Arame",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Arari",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Axixá",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bacabal",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bacabeira",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bacuri",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bacurituba",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Balsas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Barão de Grajaú",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Barra do Corda",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Barreirinhas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bela Vista do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Belágua",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Benedito Leite",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bequimão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bernardo do Mearim",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Boa Vista do Gurupi",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bom Jardim",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bom Jesus das Selvas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Bom Lugar",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Brejo",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Brejo de Areia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Buriti",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Buriti Bravo",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Buriticupu",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Buritirana",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Cachoeira Grande",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Cajapió",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Cajari",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Campestre do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Cândido Mendes",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Cantanhede",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Capinzal do Norte",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Carolina",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Carutapera",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Caxias",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Cedral",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Central do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Centro do Guilherme",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Centro Novo do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Chapadinha",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Cidelândia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Codó",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Coelho Neto",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Colinas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Conceição do Lago-Açu",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Coroatá",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Cururupu",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Davinópolis",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Dom Pedro",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Duque Bacelar",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Esperantinópolis",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Estreito",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Feira Nova do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Fernando Falcão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Formosa da Serra Negra",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Fortaleza dos Nogueiras",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Fortuna",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Godofredo Viana",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Gonçalves Dias",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Governador Archer",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Governador Edison Lobão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Governador Eugênio Barros",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Governador Luiz Rocha",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Governador Newton Bello",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Governador Nunes Freire",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Graça Aranha",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Grajaú",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Guimarães",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Humberto de Campos",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Icatu",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Igarapé do Meio",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Igarapé Grande",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Imperatriz",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Itaipava do Grajaú",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Itapecuru Mirim",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Itinga do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Jatobá",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Jenipapo dos Vieiras",
+		"uf": "MA"
+	},
+	{
+		"cidade": "João Lisboa",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Joselândia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Junco do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Lago da Pedra",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Lago do Junco",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Lago dos Rodrigues",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Lago Verde",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Lagoa do Mato",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Lagoa Grande do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Lajeado Novo",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Lima Campos",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Loreto",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Luís Domingues",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Magalhães de Almeida",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Maracaçumé",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Marajá do Sena",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Maranhãozinho",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Mata Roma",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Matinha",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Matões",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Matões do Norte",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Milagres do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Mirador",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Miranda do Norte",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Mirinzal",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Monção",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Montes Altos",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Morros",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Nina Rodrigues",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Nova Colinas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Nova Iorque",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Nova Olinda do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Olho d`Água das Cunhãs",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Olinda Nova do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Paço do Lumiar",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Palmeirândia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Paraibano",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Parnarama",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Passagem Franca",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Pastos Bons",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Paulino Neves",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Paulo Ramos",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Pedreiras",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Pedro do Rosário",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Penalva",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Peri Mirim",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Peritoró",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Pindaré-Mirim",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Pinheiro",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Pio XII",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Pirapemas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Poção de Pedras",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Porto Franco",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Porto Rico do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Presidente Dutra",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Presidente Juscelino",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Presidente Médici",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Presidente Sarney",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Presidente Vargas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Primeira Cruz",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Raposa",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Riachão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Ribamar Fiquene",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Rosário",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Sambaíba",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santa Filomena do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santa Helena",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santa Inês",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santa Luzia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santa Luzia do Paruá",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santa Quitéria do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santa Rita",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santana do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santo Amaro do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Santo Antônio dos Lopes",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Benedito do Rio Preto",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Bento",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Bernardo",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Domingos do Azeitão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Domingos do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Félix de Balsas",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Francisco do Brejão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Francisco do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São João Batista",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São João do Carú",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São João do Paraíso",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São João do Soter",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São João dos Patos",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São José de Ribamar",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São José dos Basílios",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Luís",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Luís Gonzaga do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Mateus do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Pedro da Água Branca",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Pedro dos Crentes",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Raimundo das Mangabeiras",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Raimundo do Doca Bezerra",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Roberto",
+		"uf": "MA"
+	},
+	{
+		"cidade": "São Vicente Ferrer",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Satubinha",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Senador Alexandre Costa",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Senador La Rocque",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Serrano do Maranhão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Sítio Novo",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Sucupira do Norte",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Sucupira do Riachão",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Tasso Fragoso",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Timbiras",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Timon",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Trizidela do Vale",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Tufilândia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Tuntum",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Turiaçu",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Turilândia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Tutóia",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Urbano Santos",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Vargem Grande",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Viana",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Vila Nova dos Martírios",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Vitória do Mearim",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Vitorino Freire",
+		"uf": "MA"
+	},
+	{
+		"cidade": "Zé Doca",
+		"uf": "MA"
+	}
+]

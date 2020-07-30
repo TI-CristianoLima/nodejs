@@ -1,0 +1,894 @@
+[
+	{
+		"cidade": "Acauã",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Agricolândia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Água Branca",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Alagoinha do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Alegrete do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Alto Longá",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Altos",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Alvorada do Gurguéia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Amarante",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Angical do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Anísio de Abreu",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Antônio Almeida",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Aroazes",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Aroeiras do Itaim",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Arraial",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Assunção do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Avelino Lopes",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Baixa Grande do Ribeiro",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Barra d`Alcântara",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Barras",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Barreiras do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Barro Duro",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Batalha",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Bela Vista do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Belém do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Beneditinos",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Bertolínia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Betânia do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Boa Hora",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Bocaina",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Bom Jesus",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Bom Princípio do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Bonfim do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Boqueirão do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Brasileira",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Brejo do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Buriti dos Lopes",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Buriti dos Montes",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Cabeceiras do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Cajazeiras do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Cajueiro da Praia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Caldeirão Grande do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Campinas do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Campo Alegre do Fidalgo",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Campo Grande do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Campo Largo do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Campo Maior",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Canavieira",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Canto do Buriti",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Capitão de Campos",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Capitão Gervásio Oliveira",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Caracol",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Caraúbas do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Caridade do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Castelo do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Caxingó",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Cocal",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Cocal de Telha",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Cocal dos Alves",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Coivaras",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Colônia do Gurguéia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Colônia do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Conceição do Canindé",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Coronel José Dias",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Corrente",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Cristalândia do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Cristino Castro",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Curimatá",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Currais",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Curral Novo do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Curralinhos",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Demerval Lobão",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Dirceu Arcoverde",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Dom Expedito Lopes",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Dom Inocêncio",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Domingos Mourão",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Elesbão Veloso",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Eliseu Martins",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Esperantina",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Fartura do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Flores do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Floresta do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Floriano",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Francinópolis",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Francisco Ayres",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Francisco Macedo",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Francisco Santos",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Fronteiras",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Geminiano",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Gilbués",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Guadalupe",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Guaribas",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Hugo Napoleão",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Ilha Grande",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Inhuma",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Ipiranga do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Isaías Coelho",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Itainópolis",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Itaueira",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Jacobina do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Jaicós",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Jardim do Mulato",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Jatobá do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Jerumenha",
+		"uf": "PI"
+	},
+	{
+		"cidade": "João Costa",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Joaquim Pires",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Joca Marques",
+		"uf": "PI"
+	},
+	{
+		"cidade": "José de Freitas",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Juazeiro do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Júlio Borges",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Jurema",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Lagoa Alegre",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Lagoa de São Francisco",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Lagoa do Barro do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Lagoa do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Lagoa do Sítio",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Lagoinha do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Landri Sales",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Luís Correia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Luzilândia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Madeiro",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Manoel Emídio",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Marcolândia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Marcos Parente",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Massapê do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Matias Olímpio",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Miguel Alves",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Miguel Leão",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Milton Brandão",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Monsenhor Gil",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Monsenhor Hipólito",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Monte Alegre do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Morro Cabeça no Tempo",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Morro do Chapéu do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Murici dos Portelas",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Nazaré do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Nossa Senhora de Nazaré",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Nossa Senhora dos Remédios",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Nova Santa Rita",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Novo Oriente do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Novo Santo Antônio",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Oeiras",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Olho d`Água do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Padre Marcos",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Paes Landim",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Pajeú do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Palmeira do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Palmeirais",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Paquetá",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Parnaguá",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Parnaíba",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Passagem Franca do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Patos do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Pau d`Arco do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Paulistana",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Pavussu",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Pedro II",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Pedro Laurentino",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Picos",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Pimenteiras",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Pio IX",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Piracuruca",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Piripiri",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Porto",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Porto Alegre do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Prata do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Queimada Nova",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Redenção do Gurguéia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Regeneração",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Riacho Frio",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Ribeira do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Ribeiro Gonçalves",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Rio Grande do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santa Cruz do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santa Cruz dos Milagres",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santa Filomena",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santa Luz",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santa Rosa do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santana do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santo Antônio de Lisboa",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santo Antônio dos Milagres",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Santo Inácio do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Braz do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Félix do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Francisco de Assis do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Francisco do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Gonçalo do Gurguéia",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Gonçalo do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São João da Canabrava",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São João da Fronteira",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São João da Serra",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São João da Varjota",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São João do Arraial",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São João do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São José do Divino",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São José do Peixe",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São José do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Julião",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Lourenço do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Luis do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Miguel da Baixa Grande",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Miguel do Fidalgo",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Miguel do Tapuio",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Pedro do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "São Raimundo Nonato",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Sebastião Barros",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Sebastião Leal",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Sigefredo Pacheco",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Simões",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Simplício Mendes",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Socorro do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Sussuapara",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Tamboril do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Tanque do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Teresina",
+		"uf": "PI"
+	},
+	{
+		"cidade": "União",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Uruçuí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Valença do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Várzea Branca",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Várzea Grande",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Vera Mendes",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Vila Nova do Piauí",
+		"uf": "PI"
+	},
+	{
+		"cidade": "Wall Ferraz",
+		"uf": "PI"
+	}
+]

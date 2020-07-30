@@ -1,0 +1,566 @@
+[
+	{
+		"cidade": "Acorizal",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Água Boa",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Alta Floresta",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Alto Araguaia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Alto Boa Vista",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Alto Garças",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Alto Paraguai",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Alto Taquari",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Apiacás",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Araguaiana",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Araguainha",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Araputanga",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Arenápolis",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Aripuanã",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Barão de Melgaço",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Barra do Bugres",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Barra do Garças",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Bom Jesus do Araguaia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Brasnorte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Cáceres",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Campinápolis",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Campo Novo do Parecis",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Campo Verde",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Campos de Júlio",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Canabrava do Norte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Canarana",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Carlinda",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Castanheira",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Chapada dos Guimarães",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Cláudia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Cocalinho",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Colíder",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Colniza",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Comodoro",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Confresa",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Conquista d`Oeste",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Cotriguaçu",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Cuiabá",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Curvelândia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Curvelândia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Denise",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Diamantino",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Dom Aquino",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Feliz Natal",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Figueirópolis d`Oeste",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Gaúcha do Norte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "General Carneiro",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Glória d`Oeste",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Guarantã do Norte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Guiratinga",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Indiavaí",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Ipiranga do Norte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Itanhangá",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Itaúba",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Itiquira",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Jaciara",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Jangada",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Jauru",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Juara",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Juína",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Juruena",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Juscimeira",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Lambari d`Oeste",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Lucas do Rio Verde",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Luciára",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Marcelândia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Matupá",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Mirassol d`Oeste",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nobres",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nortelândia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nossa Senhora do Livramento",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Bandeirantes",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Brasilândia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Canaã do Norte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Guarita",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Lacerda",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Marilândia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Maringá",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Monte verde",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Mutum",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Olímpia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Santa Helena",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Ubiratã",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Nova Xavantina",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Novo Horizonte do Norte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Novo Mundo",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Novo Santo Antônio",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Novo São Joaquim",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Paranaíta",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Paranatinga",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Pedra Preta",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Peixoto de Azevedo",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Planalto da Serra",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Poconé",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Pontal do Araguaia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Ponte Branca",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Pontes e Lacerda",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Porto Alegre do Norte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Porto dos Gaúchos",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Porto Esperidião",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Porto Estrela",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Poxoréo",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Primavera do Leste",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Querência",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Reserva do Cabaçal",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Ribeirão Cascalheira",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Ribeirãozinho",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Rio Branco",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Rondolândia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Rondonópolis",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Rosário Oeste",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Salto do Céu",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Santa Carmem",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Santa Cruz do Xingu",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Santa Rita do Trivelato",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Santa Terezinha",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Santo Afonso",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Santo Antônio do Leste",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Santo Antônio do Leverger",
+		"uf": "MT"
+	},
+	{
+		"cidade": "São Félix do Araguaia",
+		"uf": "MT"
+	},
+	{
+		"cidade": "São José do Povo",
+		"uf": "MT"
+	},
+	{
+		"cidade": "São José do Rio Claro",
+		"uf": "MT"
+	},
+	{
+		"cidade": "São José do Xingu",
+		"uf": "MT"
+	},
+	{
+		"cidade": "São José dos Quatro Marcos",
+		"uf": "MT"
+	},
+	{
+		"cidade": "São Pedro da Cipa",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Sapezal",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Serra Nova Dourada",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Sinop",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Sorriso",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Tabaporã",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Tangará da Serra",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Tapurah",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Terra Nova do Norte",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Tesouro",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Torixoréu",
+		"uf": "MT"
+	},
+	{
+		"cidade": "União do Sul",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Vale de São Domingos",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Várzea Grande",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Vera",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Vila Bela da Santíssima Trindade",
+		"uf": "MT"
+	},
+	{
+		"cidade": "Vila Rica",
+		"uf": "MT"
+	}
+]
